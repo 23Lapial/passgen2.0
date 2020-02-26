@@ -1,1 +1,1 @@
-# passgen2.0
+# pass gen
